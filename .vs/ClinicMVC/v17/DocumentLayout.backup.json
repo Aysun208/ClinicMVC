@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|solutionrelative:clinicmvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\admin\\views\\department\\assignservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|solutionrelative:clinicmvc\\areas\\admin\\views\\department\\assignservices.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|solutionrelative:clinicmvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|solutionrelative:clinicmvc\\areas\\admin\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\viewmodels\\departmentvms\\batchassignvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|solutionrelative:clinicmvc\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|solutionrelative:clinicmvc\\areas\\admin\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0FBBF88-38C9-4C63-BDD1-066EB81D9D90}|ClinicMVC\\ClinicMVC.csproj|c:\\users\\asus\\source\\repos\\clinicmvc\\clinicmvc\\areas\\admin\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -118,30 +118,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "BatchAssignVM.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\ViewModels\\DepartmentVMs\\BatchAssignVM.cs",
               "RelativeDocumentMoniker": "ClinicMVC\\Areas\\ViewModels\\DepartmentVMs\\BatchAssignVM.cs",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\ViewModels\\DepartmentVMs\\BatchAssignVM.cs",
               "RelativeToolTip": "ClinicMVC\\Areas\\ViewModels\\DepartmentVMs\\BatchAssignVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T07:00:22.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AssignServices.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\Admin\\Views\\Department\\AssignServices.cshtml",
               "RelativeDocumentMoniker": "ClinicMVC\\Areas\\Admin\\Views\\Department\\AssignServices.cshtml",
               "ToolTip": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\Admin\\Views\\Department\\AssignServices.cshtml",
               "RelativeToolTip": "ClinicMVC\\Areas\\Admin\\Views\\Department\\AssignServices.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-07T06:49:30.644Z",
               "EditorCaption": ""
@@ -186,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
               "RelativeDocumentMoniker": "ClinicMVC\\Areas\\Admin\\Views\\Department\\Create.cshtml",
@@ -199,13 +199,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "ClinicMVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\Admin\\Controllers\\DepartmentController.cs*",
-              "RelativeToolTip": "ClinicMVC\\Areas\\Admin\\Controllers\\DepartmentController.cs*",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAwwGIAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ClinicMVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwGgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T20:37:09.236Z",
               "EditorCaption": ""
@@ -224,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\ClinicMVC\\ClinicMVC\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "ClinicMVC\\Models\\Doctor.cs",
